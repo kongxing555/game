@@ -1,9 +1,193 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.14">
   <diagram name="第 1 页" id="i8MqhCAHrSAyVpUwQ_SO">
-    <mxGraphModel>
+    <mxGraphModel dx="2785" dy="1049" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-70" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GtimxReasQ_3gJzBnS7Q-1" target="GtimxReasQ_3gJzBnS7Q-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-71" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GtimxReasQ_3gJzBnS7Q-1" target="GtimxReasQ_3gJzBnS7Q-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-72" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GtimxReasQ_3gJzBnS7Q-1" target="GtimxReasQ_3gJzBnS7Q-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-73" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GtimxReasQ_3gJzBnS7Q-1" target="GtimxReasQ_3gJzBnS7Q-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-1" value="&lt;b style=&quot;font-size: 19px;&quot;&gt;玩家&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="420" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-10" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;图例&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-11" value="地图操作" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-12" value="卡牌操作" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="100" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-13" value="其他操作" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GtimxReasQ_3gJzBnS7Q-10" target="GtimxReasQ_3gJzBnS7Q-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-64" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GtimxReasQ_3gJzBnS7Q-15" target="GtimxReasQ_3gJzBnS7Q-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-65" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GtimxReasQ_3gJzBnS7Q-15" target="GtimxReasQ_3gJzBnS7Q-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-15" value="战斗界面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="130" y="430" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GtimxReasQ_3gJzBnS7Q-16" target="GtimxReasQ_3gJzBnS7Q-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-16" value="玩家强化界面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="130" y="680" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-53" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GtimxReasQ_3gJzBnS7Q-17" target="GtimxReasQ_3gJzBnS7Q-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-17" value="卡牌强化界面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="130" y="230" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-68" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GtimxReasQ_3gJzBnS7Q-18" target="GtimxReasQ_3gJzBnS7Q-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-102" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GtimxReasQ_3gJzBnS7Q-18" target="GtimxReasQ_3gJzBnS7Q-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-18" value="购买卡牌" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="290" y="90" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-66" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GtimxReasQ_3gJzBnS7Q-47" target="GtimxReasQ_3gJzBnS7Q-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-67" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GtimxReasQ_3gJzBnS7Q-47" target="GtimxReasQ_3gJzBnS7Q-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-47" value="商店界面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="130" y="110" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-104" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GtimxReasQ_3gJzBnS7Q-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-49" value="购买道具" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="290" y="150" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-52" value="牺牲一张牌来强化一张牌" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="290" y="240" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-56" value="获取插件（多选一）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="275" y="690" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-76" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GtimxReasQ_3gJzBnS7Q-57" target="GtimxReasQ_3gJzBnS7Q-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-77" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="GtimxReasQ_3gJzBnS7Q-57" target="GtimxReasQ_3gJzBnS7Q-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-78" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GtimxReasQ_3gJzBnS7Q-57" target="GtimxReasQ_3gJzBnS7Q-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-57" value="抽牌" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="260" y="360" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-95" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="GtimxReasQ_3gJzBnS7Q-59" target="GtimxReasQ_3gJzBnS7Q-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-59" value="立即使用" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="540" y="520" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-75" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="GtimxReasQ_3gJzBnS7Q-60" target="GtimxReasQ_3gJzBnS7Q-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-85" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GtimxReasQ_3gJzBnS7Q-60" target="GtimxReasQ_3gJzBnS7Q-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-86" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GtimxReasQ_3gJzBnS7Q-60" target="GtimxReasQ_3gJzBnS7Q-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-60" value="使用道具" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="260" y="560" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-61" value="将卡放置于空槽" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="405" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-80" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="GtimxReasQ_3gJzBnS7Q-74" target="GtimxReasQ_3gJzBnS7Q-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-82" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="GtimxReasQ_3gJzBnS7Q-74" target="GtimxReasQ_3gJzBnS7Q-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="430" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-74" value="将卡放置于非空槽" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="405" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-79" value="多张卡融合" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="560" y="370" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-94" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GtimxReasQ_3gJzBnS7Q-81" target="GtimxReasQ_3gJzBnS7Q-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-81" value="将旧卡放在弃牌堆" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="560" y="430" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-84" value="延后使用" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="540" y="590" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-106" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GtimxReasQ_3gJzBnS7Q-88" target="GtimxReasQ_3gJzBnS7Q-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-88" value="结束自己回合" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="770" y="360" width="130" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-92" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.062;entryY=0.041;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GtimxReasQ_3gJzBnS7Q-61" target="GtimxReasQ_3gJzBnS7Q-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-93" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.012;entryY=0.201;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GtimxReasQ_3gJzBnS7Q-79" target="GtimxReasQ_3gJzBnS7Q-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-96" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.068;entryY=0.966;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GtimxReasQ_3gJzBnS7Q-84" target="GtimxReasQ_3gJzBnS7Q-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-98" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="124" y="220" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-108" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GtimxReasQ_3gJzBnS7Q-99" target="GtimxReasQ_3gJzBnS7Q-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-99" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="124" y="310" width="900" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-100" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="124" y="670" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-97" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="124" y="80" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-105" value="经多回合战斗结束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="920" y="435" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-107" value="进入下一个地图操作" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="270" width="120" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-110" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.023;entryY=0.081;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GtimxReasQ_3gJzBnS7Q-98" target="GtimxReasQ_3gJzBnS7Q-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-112" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.036;entryY=0.969;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GtimxReasQ_3gJzBnS7Q-100" target="GtimxReasQ_3gJzBnS7Q-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtimxReasQ_3gJzBnS7Q-114" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.06;entryY=0.036;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GtimxReasQ_3gJzBnS7Q-97" target="GtimxReasQ_3gJzBnS7Q-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
